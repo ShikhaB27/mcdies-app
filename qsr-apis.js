@@ -1,7 +1,7 @@
 const request= require('request');
 
 
-var getAuthTokenService = (callback) =>{
+var getAuthTokenService = (callback) => {
 
 //   var username= 'gwengraman@gmail.com';
 //   var password= 'Gwen@123';
